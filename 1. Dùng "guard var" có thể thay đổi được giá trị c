@@ -1,0 +1,3 @@
+1. Dùng "guard var" có thể thay đổi được giá trị của nó.
+2. Nên dùng dấu chấm "?", để đi cùng với optional Chaning.
+3. khai báo biến là dấu chấm "!" vẫn có thể check "if let" hoặc "guard let" như dấu chấm "?".
